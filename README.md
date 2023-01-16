@@ -2,4 +2,4 @@
 Face Recognition Based Attendance System
 
 ### Collaborator
-[Diaa Rozik](https://github.com/diaarozik)
+- [Diaa Rozik](https://github.com/diaarozik)
