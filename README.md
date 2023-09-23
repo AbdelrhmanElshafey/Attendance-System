@@ -1,5 +1,5 @@
-# Face_Recognition
-Face Recognition Based Attendance System
+# Attendance System
+Face Recognition and Detection Based Attendance System
 
 ### Collaborator
 - [Diaa Rozik](https://github.com/diaarozik)
